@@ -1,0 +1,4 @@
+theme: minima
+
+include:
+  - _includes/head.html
