@@ -1,2 +1,2 @@
 
-<img  src="images/resume.png"  alt=""/>
+<img  src="images/resume1.png"  alt=""/>
